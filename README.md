@@ -1,1 +1,0 @@
-# hand-tracking-project
